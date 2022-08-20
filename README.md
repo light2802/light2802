@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yehezgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yehezgun" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/aarya-chaumal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarya-chaumal" height="30" width="40" /></a>
+<a href="https://matrix.to/#/@aarya.chaumal:matrix.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg" alt="aarya.chaumal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aarya-chaumal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarya-chaumal" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=light2802&show_icons=true&theme=dark&locale=en&layout=compact" alt="light2802" /></p>
