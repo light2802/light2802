@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aarya Chaumal</h1>
 <h3 align="center">A Computer Science Student who loves to work in Systems Domain.</h3>
 
-<!--<p align="left"> <a href="www.linkedin.com/in/aarya-chaumal/" target="blank"><img src="https://img.shields.io/twitter/follow/yehezgun?logo=twitter&style=for-the-badge" alt="aarya-chaumal" /></a> </p>-->
-
 - 🌱 I’m currently learning **Compilers, Parallel Computing and Architectures, and some Advanced Unix Programming**
 
-- 👨‍💻 All of my projects are available at [https://yehezgun.com](https://yehezgun.com)
+- 👨‍💻 All of my projects are available at [https://light2802.github.io/](https://light2802.github.io/)
 
 - 📝 I regularly write articles on [https://yehezgun.com/articles](https://yehezgun.com/articles)
 
@@ -23,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=light2802&show_icons=true&theme=dark&locale=en" alt="light2802" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yehezkielgunawan&theme=dark" alt="light2802" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=light2802&theme=dark" alt="light2802" /></p>
