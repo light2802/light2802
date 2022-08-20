@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://light2802.github.io/](https://light2802.github.io/)
 
-- 📝 I regularly write articles on [https://yehezgun.com/articles](https://yehezgun.com/articles)
-
 - 📫 How to reach me **aarya.chaumal@gmail.com**
 
 - ⚡ Fun fact **I'm afraid (and have a little trauma of it) of a live coding session, that's my weakness but if I had to do it, I'll face it. Don't expect me as a pro, I'm just a curious newbie here. And yeah I prefer C/C++ over Python, LOL.**
