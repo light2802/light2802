@@ -15,8 +15,11 @@
 <a href="https://www.linkedin.com/in/aarya-chaumal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarya-chaumal" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=light2802&show_icons=true&theme=dark&locale=en&layout=compact" alt="light2802" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=light2802&show_icons=true&theme=dark&locale=en" alt="light2802" /></p>
+<a href="https://github.com/light2802">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light2802&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Aarya Chaumal's Stats" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=light2802&theme=dark" alt="light2802" /></p>
+<a href="https://github.com/light2802">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=light2802&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Aarya Chaumal's Stats" />
+</a>
