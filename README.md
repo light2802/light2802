@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Compilers, Parallel Computing and Architectures, and some Advanced Unix Programming**
 
-- 👨‍💻 All of my projects are available at [https://light2802.github.io/](https://light2802.github.io/)
+- 👨‍💻 More about me at [https://light2802.github.io/](https://light2802.github.io/)
 
 - 📫 How to reach me **aarya.chaumal@gmail.com**
 
