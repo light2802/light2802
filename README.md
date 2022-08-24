@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aarya.chaumal@gmail.com**
 
-- ⚡ Fun fact **Down to earth coz I like low level stuff 😇. I prefer to work on projects alone which help me focused and increase my productivity. Up for technical discussions anytime anywhere :). Don't expect me as a pro, I'm just a curious newbie here. And yeah I prefer C/C++ over Python, coz Python be like 🐢 LOL.**
+- ⚡ Fun fact **Down to earth coz I like low level stuff 😇 I prefer to work on projects alone which help me focused. Up for technical discussions anytime anywhere :) Don't expect me as a pro, I'm just a curious newbie here. And yeah I prefer C/C++ over Python, coz Python be like 🐢 LOL.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
