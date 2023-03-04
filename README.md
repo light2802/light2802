@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarya Chaumal</h1>
 <h3 align="center">A Computer Science Student who loves to work in Systems Domain.</h3>
 
-- 🌱 I’m currently learning **Compilers, Parallel Computing and Architectures, and some Advanced Unix Programming**
+- 🌱 I’m currently learning **HPC, Parallel Computing and Architectures, and some Advanced Unix Programming**
 
 - 👨‍💻 More about me at [https://light2802.github.io/](https://light2802.github.io/)
 
